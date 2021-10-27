@@ -1,0 +1,28 @@
+
+#wrapper{
+	width:100%;
+	height:600px;
+	margin:0 auto;
+}
+
+.head{
+	background-color: blue;
+	height:50px;
+}
+
+.sidebar{
+	background-image: url("back.png");
+	background-repeat: repeat-y;
+	width: 15%;
+	float: left;
+}
+
+.main{
+	width: 85%;
+	float: right;
+}
+
+h3{
+	font-size: 200%; color: aqua;
+	text-align: center;
+}
